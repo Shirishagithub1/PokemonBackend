@@ -1,0 +1,42 @@
+[
+  {
+    "pokemonOwnerName": "s",
+    "pokemons": [
+      {
+        "id": "3e3343e6-0c11-4383-aca0-e41813af1944",
+        "pokemonOwnerName": "s",
+        "direction": "x",
+        "initialPositionX": "6",
+        "initialPositionY": "2",
+        "pokemonName": "pidgeot",
+        "pokemonAbility": "tangled-feet",
+        "speed": "3"
+      },
+      {
+        "id": "276f3bd7-b42a-4ea8-a97c-525cb6e67a8b",
+        "pokemonOwnerName": "s",
+        "direction": "y",
+        "initialPositionX": "6",
+        "initialPositionY": "5",
+        "pokemonName": "ivysaur",
+        "pokemonAbility": "chlorophyll",
+        "speed": "7"
+      }
+    ]
+  },
+  {
+    "pokemonOwnerName": "f",
+    "pokemons": [
+      {
+        "id": "23097c10-d6c5-460a-86d9-220e2434cb90",
+        "pokemonOwnerName": "f",
+        "direction": "t",
+        "initialPositionX": "7",
+        "initialPositionY": "5",
+        "pokemonName": "ivysaur",
+        "pokemonAbility": "chlorophyll",
+        "speed": "4"
+      }
+    ]
+  }
+]
